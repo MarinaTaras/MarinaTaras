@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center"> Рада приветствовать вас в моем профиле Github! 👋 </h1>
-<span style="font-size:1000px; align=center" > Меня зовут Марина </span>
+<span style="font-size: 7; text-align: center" > Меня зовут Марина </span>
 
 <!--
 **MarinaTaras/MarinaTaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
