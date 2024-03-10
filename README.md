@@ -5,7 +5,7 @@
 <h1 align="center"> Рада приветствовать вас в моем профиле Github! 👋 </h1>
 <h2 align="center" > Меня зовут Марина </h2>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=MarinaTaras&style=flat-square&color=blue" alt=""/>
 <!--
 **MarinaTaras/MarinaTaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
