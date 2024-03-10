@@ -10,8 +10,10 @@
 Я - Web developer (обучение Яндекс Практикум) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 Работаю и учусь в г. Ярославль
 
-- :seedling: Я изучаю язык программирования JavaScript
-- :seedling: Я постоянно учусь в сфере веб-разработки. Мне нравится, что одна из отличительных особенностей IT-профессии — нацеленность на постоянное развитие и изменение. Занимаясь веб-разработкой невозможно оставаться на одном и том же уровне развития профессиональных навыков несколько лет подряд. Постоянно появляются новые технологии, методики и подходы, запросы бизнеса меняются, создаются новые IT-продукты. Развитие технологий побуждает специалистов к беспрерывному самообучению и осваиванию новых навыков.
+---
+:seedling: Изучаю язык программирования JavaScript
+
+--- Я постоянно учусь в сфере веб-разработки. Мне нравится, что одна из отличительных особенностей IT-профессии — нацеленность на постоянное развитие и изменение. Занимаясь веб-разработкой невозможно оставаться на одном и том же уровне развития профессиональных навыков несколько лет подряд. Постоянно появляются новые технологии, методики и подходы, запросы бизнеса меняются, создаются новые IT-продукты. Развитие технологий побуждает специалистов к беспрерывному самообучению и осваиванию новых навыков.
 
 ---
 
@@ -39,6 +41,15 @@
   </a>
     <a href="https://habr.com/ru/articles/463181/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
+  </a>
+    <a href="https://habr.com/ru/companies/otus/articles/706346/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  </a>
+    <a href="https://habr.com/ru/companies/otus/articles/474054/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;
+  </a>
+    <a href="https://doka.guide/tools/docker-compose/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
   </a>
 </div>
 
