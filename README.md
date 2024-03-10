@@ -53,6 +53,11 @@
   </a>
 </div>
 
+---
+
+### :fire: Статистика :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarinaTaras&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <img src="https://komarev.com/ghpvc/?username=MarinaTaras&style=flat-square&color=blue" alt=""/>
 <!--
 **MarinaTaras/MarinaTaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
