@@ -5,7 +5,10 @@
 <h1 align="center"> Рада приветствовать вас в моем профиле Github! 👋 </h1>
 <h2 align="center" > Меня зовут Марина </h2>
 
-### :woman_technologist: About Me :
+### :woman_technologist: Обо мне :
+
+Я - Web developer (обучение Яндекс Практикум) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Работаю и учусь в г. Ярославль
 
 <img src="https://komarev.com/ghpvc/?username=MarinaTaras&style=flat-square&color=blue" alt=""/>
 <!--
