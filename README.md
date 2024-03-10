@@ -1,4 +1,5 @@
-<h1 align="center">Рада приветствовать вас в моем профиле Github! Меня зовут Марина 👋 </h1>
+<h1 align="center">Рада приветствовать вас в моем профиле Github! 👋 </h1>
+<h2 align="center">Меня зовут Марина 👋 </h2>
 
 <!--
 **MarinaTaras/MarinaTaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
