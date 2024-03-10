@@ -1,4 +1,4 @@
-### Hi there 👋
+### Рада приветствовать вас в моем профиле Github! Меня зовут Марина 👋
 
 <!--
 **MarinaTaras/MarinaTaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
