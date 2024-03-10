@@ -10,8 +10,8 @@
 Я - Web developer (обучение Яндекс Практикум) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 Работаю и учусь в г. Ярославль
 
-- :seedling: я изучаю язык программирования JavaScript
-- Я постоянно учусь в сфере веб-разработки. Мне нравится, что одна из отличительных особенностей IT-профессии — нацеленность на постоянное развитие и изменение. Занимаясь веб-разработкой невозможно оставаться на одном и том же уровне развития профессиональных навыков несколько лет подряд. Постоянно появляются новые технологии, методики и подходы, запросы бизнеса меняются, создаются новые IT-продукты. Развитие технологий побуждает специалистов к беспрерывному самообучению и осваиванию новых навыков.
+- :seedling: Я изучаю язык программирования JavaScript
+- :seedling: Я постоянно учусь в сфере веб-разработки. Мне нравится, что одна из отличительных особенностей IT-профессии — нацеленность на постоянное развитие и изменение. Занимаясь веб-разработкой невозможно оставаться на одном и том же уровне развития профессиональных навыков несколько лет подряд. Постоянно появляются новые технологии, методики и подходы, запросы бизнеса меняются, создаются новые IT-продукты. Развитие технологий побуждает специалистов к беспрерывному самообучению и осваиванию новых навыков.
 
 ---
 
@@ -22,16 +22,24 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   </a>
+  <a href="https://ru.react.js.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://habr.com/ru/articles/498860/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://doka.guide/tools/nodejs/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://habr.com/ru/articles/125799/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  </a>
+    <a href="https://habr.com/ru/articles/463181/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
+  </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=MarinaTaras&style=flat-square&color=blue" alt=""/>
