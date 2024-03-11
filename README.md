@@ -58,7 +58,7 @@
 ### :e-mail: Связаться со мной:
 <div>
   <a href="mailto:tararinka@yandex.ru" target="framename" rel="noopener noreferrer" >
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" />&nbsp;
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/mailgun-icon.svg" title="mail" alt="mail" width="40" height="40" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" />&nbsp;
   </a>
 </div>
 
