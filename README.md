@@ -58,7 +58,7 @@
 ### :e-mail: Связаться со мной:
 <div>
   <a href="mailto:tararinka@yandex.ru" target="framename" rel="noopener noreferrer" >
-  <img src="https://www.logo.wine/logo/Yandex_Browser" title="mail" alt="mail" width="40" height="40" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" />&nbsp;
+  <img src="https://brandlogos.net/svg/yandex-mail-logo-svg-95688" title="mail" alt="mail" width="40" height="40" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" />&nbsp;
   </a>
 </div>
 
